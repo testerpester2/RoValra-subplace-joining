@@ -135,7 +135,7 @@
             if (!placeId) return;
 
             newButton.addEventListener('click', function(event) {
-                e.preventDefault();
+                event.preventDefault();
                 Roblox.GameLauncher.joinMultiplayerGame(placeId);
         });
         });
