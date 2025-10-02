@@ -120,7 +120,7 @@
         "settings.js",
         "Assets/icon-128.png",
         "Games/invite.js",
-        
+        "Games/sniper.js",
         "misc/ItemChecker.js",
         "catalog/hiddencatalog.js",
         "Games/Regions_contentSimple.js",
